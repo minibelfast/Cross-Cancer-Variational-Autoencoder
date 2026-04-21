@@ -98,3 +98,13 @@ To reproduce the findings from the manuscript, execute the scripts in the `Real_
 *   scTour (for trajectory inference)
 *   R >= 4.2 (with `Seurat` and `Monocle2` for branched trajectory analysis)
 
+## 📖 Citation
+
+If you use CC-VAE or the analysis pipelines in your research, please cite our forthcoming manuscript:
+
+> **Disentangling shared cellular programs from cancer-type confounders in large-scale single-cell integration.** *(Manuscript under review/in preparation)*
+
+## 🙏 Acknowledgement
+
+We thank the investigators who generated and publicly shared the single-cell datasets used in this study through repositories including GEO. Their commitment to open data made this work possible.
+
