@@ -1,5 +1,9 @@
 # CC-VAE: Cross-Cancer Variational Autoencoder for Pan-Cancer Single-Cell Integration
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--2640--3086-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/my-orcid?orcid=0009-0003-2640-3086)
+[![GitHub](https://img.shields.io/badge/GitHub-minibelfast-181717?logo=github&logoColor=white)](https://github.com/minibelfast)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Xuanyu_Wang-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Xuanyu-Wang-11/research)
+
 This repository contains the official implementation of **CC-VAE**, a generative deep learning framework designed to integrate cross-cancer single-cell RNA sequencing (scRNA-seq) data while preserving cancer-specific biological heterogeneity. The repository also provides the complete analytical pipeline used to uncover the pan-cancer tumor microenvironment (TME) pathogenic axes, including TAM polarization, CAF plasticity, and T cell exhaustion.
 
 ## 📁 Repository Structure
